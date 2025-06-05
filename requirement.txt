@@ -1,0 +1,9 @@
+#Libraries to install
+
+!pip3 install numpy
+!pip3 install opencv-python
+!pip3 install torch
+!pip3 install torchvision
+!pip3 install torchaudio
+!pip3 install ultralytics
+!pip3 install deep_sort_realtime
